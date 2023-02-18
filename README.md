@@ -1,9 +1,13 @@
-### Hi there 👋
+### Welcome to my GitHub repository! 👋
+
+I am an aspiring frontend developer dedicated to expanding my knowledge of frontend technologies. I am currently seeking a place to gain my first professional experience while further developing my skills through courses and solving challenges in my own projects.
+
+Check out my projects! 😄
 
 <!--
 **alechowski/alechowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
